@@ -1,30 +1,13 @@
-# electron-quick-start
+# Electron Curse
 
-**Clone and run for a quick way to see an Electron in action.**
+# Why would you make this, there's already a Curse Client
+The reason I made this is because I recently had to move to linux to learn ruby, but had some friends who use the curse client and didn't want to keep opening chrome so I made this.
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
+#Rant
+The original curse web app was already written in electron, so idk why curse inc won't just port the program to linux and os x since they're player base whom i assume are minecraft and league of legends players are also on these platforms. 
 
-A basic Electron application needs just these files:
+#TODO
+Packing for OS X and Debian
+Auto-login
+Game detection
 
-- `package.json` - Points to the app's main file and lists its details and dependencies.
-- `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `index.html` - A web page to render. This is the app's **renderer process**.
-
-You can learn more about each of these components within the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
-
-## To Use
-
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-git clone https://github.com/electron/electron-quick-start
-# Go into the repository
-cd electron-quick-start
-# Install dependencies and run the app
-npm install && npm start
-```
-
-Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
-
-#### License [CC0 (Public Domain)](LICENSE.md)
