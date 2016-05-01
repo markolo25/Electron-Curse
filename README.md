@@ -1,6 +1,6 @@
-# Electron Curse
+#Electron Curse
 
-# Why would you make this, there's already a Curse Client
+#Why
 The reason I made this is because I recently had to move to linux to learn ruby, but had some friends who use the curse client and didn't want to keep opening chrome so I made this.
 
 #Rant

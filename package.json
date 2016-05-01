@@ -1,14 +1,14 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "Electron-Curse",
+  "version": "0.0.1",
+  "description": "A minimal Electron application to access Curse Voice",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
+    "url": "git+https://github.com/markolo25/Electron-Curse-.git"
   },
   "keywords": [
     "Electron",
@@ -16,12 +16,12 @@
     "start",
     "tutorial"
   ],
-  "author": "GitHub",
+  "author": "Mark Mendoza",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
+    "url": "https://github.com/markolo25/Electron-Curse-/issues"
   },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "homepage": "https://github.com/markolo25/Electron-Curse-",
   "devDependencies": {
     "electron-prebuilt": "^0.37.8"
   }
