@@ -13,7 +13,7 @@ function createWindow () {
   mainWindow = new BrowserWindow({width: 1024, height: 768, resizable: true})
 
   // and load the index.html of the app.
-  mainWindow.loadURL('https://www.curse.com/login')
+  mainWindow.loadURL('https://app.twitch.tv/login')
 
   // Open the DevTools.
   //mainWindow.webContents.openDevTools()
